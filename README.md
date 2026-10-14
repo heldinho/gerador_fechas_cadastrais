@@ -64,7 +64,7 @@ Pronto! A página vai abrir com o formulário esperando pra ser preenchido. 🎉
 
 Derruba a setinha lá embaixo no card **"Configurações"** e você pode mudar:
 
-- Nome da igreja e do ministério (vem pronto: _Assembleia de Deus · Ministério Doulos_)
+- Nome da igreja e do ministério (vem pronto: _Nome da Igreja · Ministério_)
 - Endereço e nome do pastor presidente (_Valmor Pereira_)
 - **O número do WhatsApp do secretário** — coloque aí pra o botão de enviar funcionar direto!
 
